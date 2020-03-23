@@ -1,1 +1,2 @@
-# Atcoder_probrems
+# 使い方わかんね
+
